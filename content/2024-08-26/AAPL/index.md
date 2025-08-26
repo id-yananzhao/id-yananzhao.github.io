@@ -2,9 +2,9 @@
 title: "AAPL - Apple Inc. Daily Analysis" 
 date: 2024-08-26
 tags: ["technology","consumer electronics","AI","services"]
-tickers: ["AAPL"]
+ticker: ["AAPL"]
 company: "Apple Inc."
-sectors: ["Technology"]
+sector: ["Technology"]
 market_cap: "3.2T"
 price: "$227.52"
 change: "+1.24%"
