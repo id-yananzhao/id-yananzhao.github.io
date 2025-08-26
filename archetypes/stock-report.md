@@ -4,7 +4,6 @@ date: {{ .Date }}
 tags: ["{{ .Params.sector | lower }}"]
 ticker: "{{ .Params.ticker | upper }}"
 company: "{{ .Params.company }}"
-sector: "{{ .Params.sector }}"
 market_cap: ""
 price: ""
 change: ""

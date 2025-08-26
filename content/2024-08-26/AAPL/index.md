@@ -4,7 +4,6 @@ date: 2024-08-26
 tags: ["technology","consumer electronics","AI","services"]
 ticker: "AAPL"
 company: "Apple Inc."
-sector: "Technology"
 market_cap: "3.2T"
 price: "$227.52"
 change: "+1.24%"

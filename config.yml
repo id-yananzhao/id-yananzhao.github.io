@@ -9,8 +9,7 @@ pagination:
 
 taxonomies:
     tag: tags
-    ticker: tickers  
-    sector: sectors
+    ticker: tickers
 
 menu:
     main:
@@ -23,12 +22,9 @@ menu:
         - name: By Ticker
           url: tickers/
           weight: 3
-        - name: By Sector
-          url: sectors/
-          weight: 4
         - name: Tags
           url: tags/
-          weight: 5
+          weight: 4
 
 params:
     description: "Daily stock analysis reports powered by algorithmic trading insights. Technical analysis, fundamental research, and trading recommendations for active investors."
@@ -58,7 +54,7 @@ params:
           enabled: true
           title: Stock Analysis Hub
           subtitle: "Algorithmic stock analysis and trading insights generated daily. Comprehensive technical and fundamental analysis covering major equity markets with actionable trading recommendations."
-          imageUrl: "stock-chart-icon.png"
+          imageUrl: "stock-chart-icon.svg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -68,8 +64,6 @@ params:
               url: archive/
             - name: By Ticker
               url: tickers/
-            - name: By Sector
-              url: sectors/
             - name: Tags
               url: tags/
 
