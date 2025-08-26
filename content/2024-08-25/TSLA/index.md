@@ -8,10 +8,6 @@ price: "$242.65"
 change: "+2.87%"
 description: "Daily technical and fundamental analysis of Tesla Inc. (TSLA) stock performance, market sentiment, and trading recommendations."
 summary: "Tesla rebounds on robotaxi optimism and strong China delivery data. Technical breakout above $240 suggests further upside potential."
-cover:
-  image: "tsla_chart.png"
-  alt: "TSLA Stock Chart"
-  relative: true
 ---
 
 ---

@@ -8,10 +8,6 @@ price: ""
 change: ""
 description: "Daily technical and fundamental analysis of {{ .Params.company }} ({{ .Params.ticker | upper }}) stock performance, market sentiment, and trading recommendations."
 summary: ""
-cover:
-  image: "{{ .Params.ticker | lower }}_chart.png"
-  alt: "{{ .Params.ticker | upper }} Stock Chart"
-  relative: true
 ---
 
 ---

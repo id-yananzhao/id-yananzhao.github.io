@@ -8,10 +8,6 @@ price: "$164.85"
 change: "-0.45%"
 description: "Daily technical and fundamental analysis of Alphabet Inc. (GOOGL) stock performance, market sentiment, and trading recommendations."
 summary: "Google faces regulatory headwinds but AI developments in search and cloud provide long-term growth catalysts. Stock consolidating near support levels."
-cover:
-  image: "googl_chart.png"
-  alt: "GOOGL Stock Chart"
-  relative: true
 ---
 
 ---

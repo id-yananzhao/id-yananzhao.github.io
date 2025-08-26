@@ -8,10 +8,6 @@ price: "$227.52"
 change: "+1.24%"
 description: "Daily technical and fundamental analysis of Apple Inc. (AAPL) stock performance, market sentiment, and trading recommendations."
 summary: "Apple shows strong momentum with AI initiatives driving investor confidence. Technical indicators suggest continued upward trend with key resistance at $230."
-cover:
-  image: "aapl_chart.png"
-  alt: "AAPL Stock Chart"
-  relative: true
 ---
 
 ---
