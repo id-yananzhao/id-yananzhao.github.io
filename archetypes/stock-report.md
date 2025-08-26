@@ -1,7 +1,6 @@
 ---
 title: "{{ .Name | title }} - {{ .Params.company }} Daily Analysis"
 date: { { .Date } }
-tags: ["{{ .Params.sector | lower }}"]
 tickers: ["{{ .Params.ticker | upper }}"]
 company: "{{ .Params.company }}"
 market_cap: ""

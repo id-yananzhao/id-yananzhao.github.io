@@ -1,7 +1,6 @@
 ---
 title: "GOOGL - Alphabet Inc. Daily Analysis"
 date: 2024-08-26
-tags: ["technology", "search", "cloud", "AI", "advertising"]
 tickers: ["GOOGL"]
 company: "Alphabet Inc."
 market_cap: "2.1T"

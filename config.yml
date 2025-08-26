@@ -8,7 +8,6 @@ pagination:
   pagerSize: 20
 
 taxonomies:
-  tag: tags
   ticker: tickers
 
 menu:
@@ -22,9 +21,6 @@ menu:
     - name: By Ticker
       url: tickers/
       weight: 3
-    - name: Tags
-      url: tags/
-      weight: 4
 
 params:
   description: "Daily stock analysis reports powered by algorithmic trading insights. Technical analysis, fundamental research, and trading recommendations for active investors."
@@ -42,7 +38,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowAllPagesInArchive: true
-  MainSections: ["2024-08-26", "2024-08-25", "2024-08-24"]
+  MainSections: ["2024-08-26", "2024-08-25"]
   ShowToc: true
   disableScrollToTop: false
   TocOpen: false
@@ -64,8 +60,6 @@ params:
         url: archive/
       - name: By Ticker
         url: tickers/
-      - name: Tags
-        url: tags/
 
   socialIcons:
     - name: Email

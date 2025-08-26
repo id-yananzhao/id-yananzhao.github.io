@@ -1,7 +1,6 @@
 ---
 title: "TSLA - Tesla Inc. Daily Analysis"
 date: 2024-08-25
-tags: ["automotive", "electric vehicles", "energy", "AI", "autonomous driving"]
 tickers: ["TSLA"]
 company: "Tesla Inc."
 market_cap: "825B"
