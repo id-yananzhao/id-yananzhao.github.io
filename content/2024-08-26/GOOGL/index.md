@@ -2,9 +2,9 @@
 title: "GOOGL - Alphabet Inc. Daily Analysis" 
 date: 2024-08-26
 tags: ["technology","search","cloud","AI","advertising"]
-ticker: ["GOOGL"]
+ticker: "GOOGL"
 company: "Alphabet Inc."
-sector: ["Technology"]
+sector: "Technology"
 market_cap: "2.1T"
 price: "$164.85"
 change: "-0.45%"

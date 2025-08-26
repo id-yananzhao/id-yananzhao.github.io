@@ -9,7 +9,7 @@ pagination:
 
 taxonomies:
     tag: tags
-    ticker: tickers
+    ticker: tickers  
     sector: sectors
 
 menu:
