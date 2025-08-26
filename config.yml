@@ -1,4 +1,4 @@
-baseURL: "https://id-yananzhao.io/" 
+baseURL: "https://id-yananzhao.io/"
 title: Stock Analysis Reports
 theme: PaperMod
 
@@ -8,87 +8,87 @@ pagination:
   pagerSize: 20
 
 taxonomies:
-    tag: tags
-    ticker: tickers
+  tag: tags
+  ticker: tickers
 
 menu:
-    main:
-        - name: Latest Reports
-          url: /
-          weight: 1
-        - name: All Reports
-          url: archive/
-          weight: 2
-        - name: By Ticker
-          url: tickers/
-          weight: 3
-        - name: Tags
-          url: tags/
-          weight: 4
+  main:
+    - name: Latest Reports
+      url: /
+      weight: 1
+    - name: All Reports
+      url: archive/
+      weight: 2
+    - name: By Ticker
+      url: tickers/
+      weight: 3
+    - name: Tags
+      url: tags/
+      weight: 4
 
 params:
-    description: "Daily stock analysis reports powered by algorithmic trading insights. Technical analysis, fundamental research, and trading recommendations for active investors."
-    author: Yanan Zhao
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2, 2006"
-    defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: true
-    ShowShareButtons: true
-    ShowReadingTime: true
-    disableSpecial1stPost: false
-    disableAnchoredHeadings: false
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: true
-    ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: true
-    MainSections: ["2024-08-26","2024-08-25","2024-08-24"]
-    ShowToc: true
-    disableScrollToTop: false
-    TocOpen: false
-    ShowWordCount: true
-    UseHugoToc: true
-    comments: false
-    math: false
-    profileMode:
-          enabled: true
-          title: Stock Analysis Hub
-          subtitle: "Algorithmic stock analysis and trading insights generated daily. Comprehensive technical and fundamental analysis covering major equity markets with actionable trading recommendations."
-          imageUrl: "stock-chart-icon.svg"
-          imageWidth: 160
-          imageHeight: 160
-          buttons:
-            - name: Latest Reports
-              url: /
-            - name: All Reports  
-              url: archive/
-            - name: By Ticker
-              url: tickers/
-            - name: Tags
-              url: tags/
+  description: "Daily stock analysis reports powered by algorithmic trading insights. Technical analysis, fundamental research, and trading recommendations for active investors."
+  author: Yanan Zhao
+  # googleAnalyticsID: "G-XXXXX"
+  DateFormat: "January 2, 2006"
+  defaultTheme: light
+  hideFooter: false
+  disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  disableSpecial1stPost: false
+  disableAnchoredHeadings: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: true
+  MainSections: ["2024-08-26", "2024-08-25", "2024-08-24"]
+  ShowToc: true
+  disableScrollToTop: false
+  TocOpen: false
+  ShowWordCount: true
+  UseHugoToc: true
+  comments: false
+  math: false
+  profileMode:
+    enabled: true
+    title: Stock Analysis Hub
+    subtitle: "Algorithmic stock analysis and trading insights generated daily. Comprehensive technical and fundamental analysis covering major equity markets with actionable trading recommendations."
+    imageUrl: "stock-chart-icon.svg"
+    imageWidth: 160
+    imageHeight: 160
+    buttons:
+      - name: Latest Reports
+        url: /
+      - name: All Reports
+        url: archive/
+      - name: By Ticker
+        url: tickers/
+      - name: Tags
+        url: tags/
 
-    socialIcons:
-        - name: Email
-          url: mailto:yanan.zhao.asu@gmail.com
+  socialIcons:
+    - name: Email
+      url: mailto:yanan.zhao.asu@gmail.com
 
-    assets:
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
-    label:
-      text: "Stock Analysis Hub"
-      icon: favicon.ico
-      iconHeight: 18
+  assets:
+    disableScrollBarStyle: true
+  cover:
+    hiddenInList: false
+    hiddenInSingle: true
+  label:
+    text: "Stock Analysis Hub"
+    icon: favicon.ico
+    iconHeight: 18
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: autumn
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
