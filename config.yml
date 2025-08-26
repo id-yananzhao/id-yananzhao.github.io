@@ -75,13 +75,7 @@ params:
 
     socialIcons:
         - name: Email
-          url: mailto:yanan@tradinganalysis.com
-        - name: GitHub
-          url: https://github.com/id-yananzhao
-        - name: Twitter
-          url: https://x.com/yananzhao
-        - name: LinkedIn
-          url: https://linkedin.com/in/yananzhao
+          url: mailto:yanan.zhao.asu@gmail.com
 
     assets:
         disableScrollBarStyle: true

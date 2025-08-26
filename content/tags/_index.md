@@ -1,5 +1,5 @@
 ---
 title: "Tags"
-description: "Topics covered and methods used in my research papers and courses."
+description: "Browse stock analysis reports by topics, sectors, and analysis methods."
 layout: "terms"
 ---
