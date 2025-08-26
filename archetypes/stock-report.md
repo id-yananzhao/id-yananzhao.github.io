@@ -2,9 +2,9 @@
 title: "{{ .Name | title }} - {{ .Params.company }} Daily Analysis" 
 date: {{ .Date }}
 tags: ["{{ .Params.sector | lower }}"]
-ticker: "{{ .Params.ticker | upper }}"
+tickers: ["{{ .Params.ticker | upper }}"]
 company: "{{ .Params.company }}"
-sector: "{{ .Params.sector }}"
+sectors: ["{{ .Params.sector }}"]
 market_cap: ""
 price: ""
 change: ""

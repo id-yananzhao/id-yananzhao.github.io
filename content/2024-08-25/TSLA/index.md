@@ -2,9 +2,9 @@
 title: "TSLA - Tesla Inc. Daily Analysis" 
 date: 2024-08-25
 tags: ["automotive","electric vehicles","energy","AI","autonomous driving"]
-ticker: "TSLA"
+tickers: ["TSLA"]
 company: "Tesla Inc."
-sector: "Consumer Discretionary"
+sectors: ["Consumer Discretionary"]
 market_cap: "825B"
 price: "$242.65"
 change: "+2.87%"
