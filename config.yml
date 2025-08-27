@@ -12,15 +12,12 @@ taxonomies:
 
 menu:
   main:
-    - name: Latest Reports
-      url: /
-      weight: 1
     - name: All Reports
       url: archive/
-      weight: 2
+      weight: 1
     - name: By Ticker
       url: tickers/
-      weight: 3
+      weight: 2
 
 params:
   description: "Daily stock analysis reports powered by algorithmic trading insights. Technical analysis, fundamental research, and trading recommendations for active investors."
@@ -54,8 +51,6 @@ params:
     imageWidth: 160
     imageHeight: 160
     buttons:
-      - name: Latest Reports
-        url: /
       - name: All Reports
         url: archive/
       - name: By Ticker
