@@ -35,7 +35,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowAllPagesInArchive: true
-  MainSections: ["2024-08-26", "2024-08-25"]
+  MainSections: ["2025-08-27"]
   ShowToc: true
   disableScrollToTop: false
   TocOpen: false
