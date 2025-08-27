@@ -12,32 +12,14 @@ summary: "Apple shows strong momentum with AI initiatives driving investor confi
 
 ---
 
-<div class="executive-summary">
-
 ## Executive Summary
 
-<div class="summary-grid">
-<div class="summary-item">
-<strong>Current Price</strong>
-<div class="value">$227.52 <span class="change price-positive">(+1.24%)</span></div>
-</div>
-<div class="summary-item">
-<strong>Rating</strong>
-<div class="value">BUY <span class="rating-badge rating-buy">BUY</span></div>
-</div>
-<div class="summary-item">
-<strong>Target Price</strong>
-<div class="value">$245.00</div>
-</div>
-<div class="summary-item">
-<strong>Risk Level</strong>
-<div class="value">Medium <span class="risk-indicator risk-medium">Medium</span></div>
-</div>
-</div>
+**Current Price:** $227.52 (+1.24%)  
+**Rating:** BUY  
+**Target Price:** $245.00  
+**Risk Level:** Medium
 
 Apple continues to demonstrate strong fundamentals with increasing AI integration across its product ecosystem. The stock has broken through key technical resistance levels and shows positive momentum.
-
-</div>
 
 ---
 
@@ -68,25 +50,10 @@ The stock is forming a bullish flag pattern following the recent breakout above 
 
 ### Financial Health
 
-<div class="metric-cards">
-<div class="metric-card">
-<h4>P/E Ratio</h4>
-<div class="value">28.5</div>
-</div>
-<div class="metric-card">
-<h4>Free Cash Flow</h4>
-<div class="value">$99.5B</div>
-<div class="change">(TTM)</div>
-</div>
-<div class="metric-card">
-<h4>Debt-to-Equity</h4>
-<div class="value">1.73</div>
-</div>
-<div class="metric-card">
-<h4>ROE</h4>
-<div class="value">160.5%</div>
-</div>
-</div>
+- **P/E Ratio:** 28.5
+- **Free Cash Flow:** $99.5B (TTM)
+- **Debt-to-Equity:** 1.73
+- **ROE:** 160.5%
 
 ---
 

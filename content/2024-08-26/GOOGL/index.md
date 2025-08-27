@@ -12,32 +12,14 @@ summary: "Google faces regulatory headwinds but AI developments in search and cl
 
 ---
 
-<div class="executive-summary">
-
 ## Executive Summary
 
-<div class="summary-grid">
-<div class="summary-item">
-<strong>Current Price</strong>
-<div class="value">$164.85 <span class="change price-negative">(-0.45%)</span></div>
-</div>
-<div class="summary-item">
-<strong>Rating</strong>
-<div class="value">HOLD <span class="rating-badge rating-hold">HOLD</span></div>
-</div>
-<div class="summary-item">
-<strong>Target Price</strong>
-<div class="value">$175.00</div>
-</div>
-<div class="summary-item">
-<strong>Risk Level</strong>
-<div class="value">High <span class="risk-indicator risk-high">High</span></div>
-</div>
-</div>
+**Current Price:** $164.85 (-0.45%)  
+**Rating:** HOLD  
+**Target Price:** $175.00  
+**Risk Level:** Medium-High
 
 Alphabet showing mixed signals with regulatory concerns weighing on near-term performance while AI initiatives provide long-term upside potential.
-
-</div>
 
 ---
 
@@ -68,25 +50,10 @@ Stock is consolidating in a range between $160-170. Break below $160 could signa
 
 ### Financial Health
 
-<div class="metric-cards">
-<div class="metric-card">
-<h4>P/E Ratio</h4>
-<div class="value">22.1</div>
-</div>
-<div class="metric-card">
-<h4>Free Cash Flow</h4>
-<div class="value">$73.2B</div>
-<div class="change">(TTM)</div>
-</div>
-<div class="metric-card">
-<h4>Debt-to-Equity</h4>
-<div class="value">0.11</div>
-</div>
-<div class="metric-card">
-<h4>ROE</h4>
-<div class="value">29.2%</div>
-</div>
-</div>
+- **P/E Ratio:** 22.1
+- **Free Cash Flow:** $73.2B (TTM)
+- **Debt-to-Equity:** 0.11
+- **ROE:** 29.2%
 
 ---
 
