@@ -12,14 +12,32 @@ summary: ""
 
 ---
 
+<div class="executive-summary">
+
 ## Executive Summary
 
-**Current Price:** $XXX.XX (+X.XX%)  
-**Rating:** [BUY/HOLD/SELL]  
-**Target Price:** $XXX.XX  
-**Risk Level:** [Low/Medium/High]
+<div class="summary-grid">
+<div class="summary-item">
+<strong>Current Price</strong>
+<div class="value price-positive">$XXX.XX <span class="change price-positive">(+X.XX%)</span></div>
+</div>
+<div class="summary-item">
+<strong>Rating</strong>
+<div class="value">BUY <span class="rating-badge rating-buy">BUY</span></div>
+</div>
+<div class="summary-item">
+<strong>Target Price</strong>
+<div class="value">$XXX.XX</div>
+</div>
+<div class="summary-item">
+<strong>Risk Level</strong>
+<div class="value">Medium <span class="risk-indicator risk-medium">Medium</span></div>
+</div>
+</div>
 
 [Brief summary of current situation and recommendation]
+
+</div>
 
 ---
 
@@ -50,10 +68,25 @@ summary: ""
 
 ### Financial Health
 
-- **P/E Ratio:** XX.X
-- **Free Cash Flow:** $XX.XB (TTM)
-- **Debt-to-Equity:** X.XX
-- **ROE:** XX.X%
+<div class="metric-cards">
+<div class="metric-card">
+<h4>P/E Ratio</h4>
+<div class="value">XX.X</div>
+</div>
+<div class="metric-card">
+<h4>Free Cash Flow</h4>
+<div class="value">$XX.XB</div>
+<div class="change">(TTM)</div>
+</div>
+<div class="metric-card">
+<h4>Debt-to-Equity</h4>
+<div class="value">X.XX</div>
+</div>
+<div class="metric-card">
+<h4>ROE</h4>
+<div class="value">XX.X%</div>
+</div>
+</div>
 
 ---
 

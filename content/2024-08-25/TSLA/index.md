@@ -12,14 +12,32 @@ summary: "Tesla rebounds on robotaxi optimism and strong China delivery data. Te
 
 ---
 
+<div class="executive-summary">
+
 ## Executive Summary
 
-**Current Price:** $242.65 (+2.87%)  
-**Rating:** BUY  
-**Target Price:** $280.00  
-**Risk Level:** High
+<div class="summary-grid">
+<div class="summary-item">
+<strong>Current Price</strong>
+<div class="value">$242.65 <span class="change price-positive">(+2.87%)</span></div>
+</div>
+<div class="summary-item">
+<strong>Rating</strong>
+<div class="value">BUY <span class="rating-badge rating-buy">BUY</span></div>
+</div>
+<div class="summary-item">
+<strong>Target Price</strong>
+<div class="value">$280.00</div>
+</div>
+<div class="summary-item">
+<strong>Risk Level</strong>
+<div class="value">High <span class="risk-indicator risk-high">High</span></div>
+</div>
+</div>
 
 Tesla showing renewed strength driven by robotaxi developments and improving delivery trends. Stock breaking out of recent consolidation range.
+
+</div>
 
 ---
 
@@ -50,10 +68,25 @@ Clean breakout above descending triangle pattern. Target projection points to $2
 
 ### Financial Health
 
-- **P/E Ratio:** 65.2
-- **Free Cash Flow:** $7.8B (TTM)
-- **Debt-to-Equity:** 0.17
-- **ROE:** 19.3%
+<div class="metric-cards">
+<div class="metric-card">
+<h4>P/E Ratio</h4>
+<div class="value">65.2</div>
+</div>
+<div class="metric-card">
+<h4>Free Cash Flow</h4>
+<div class="value">$7.8B</div>
+<div class="change">(TTM)</div>
+</div>
+<div class="metric-card">
+<h4>Debt-to-Equity</h4>
+<div class="value">0.17</div>
+</div>
+<div class="metric-card">
+<h4>ROE</h4>
+<div class="value">19.3%</div>
+</div>
+</div>
 
 ---
 
