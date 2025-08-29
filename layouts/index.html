@@ -4,7 +4,8 @@
 {{- partial "index_profile.html" . }}
 {{- end }}
 
-{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $pages := where site.RegularPages "Section" "!=" "tickers" }}
+{{- $pages = $pages.ByDate.Reverse }}
 {{- $paginator := .Paginate $pages }}
 
 {{- if and .Site.Params.profileMode.enabled $paginator.Pages }}
