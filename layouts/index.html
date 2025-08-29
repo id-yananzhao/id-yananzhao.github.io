@@ -4,8 +4,17 @@
 {{- partial "index_profile.html" . }}
 {{- end }}
 
-{{- $pages := where site.RegularPages "Section" "!=" "tickers" }}
-{{- $pages = $pages.ByDate.Reverse }}
+{{- $allPages := where site.RegularPages "Section" "!=" "tickers" }}
+{{- $allPages = $allPages.ByDate.Reverse }}
+{{- $pages := slice }}
+{{- if $allPages }}
+{{- $latestDate := (index $allPages 0).Date }}
+{{- range $allPages }}
+{{- if eq (.Date.Format "2006-01-02") ($latestDate.Format "2006-01-02") }}
+{{- $pages = $pages | append . }}
+{{- end }}
+{{- end }}
+{{- end }}
 {{- $paginator := .Paginate $pages }}
 
 {{- if and .Site.Params.profileMode.enabled $paginator.Pages }}
